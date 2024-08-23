@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cty>
+  <tencty>ABC</tencty>
+  <dsnv>
+    <nv loai="1">
+      <ten>Khanh</ten>
+      <ma>NV001</ma>
+      <gt>Nam</gt>
+      <hSL>5.5</hSL>
+      <namVL>2019</namVL>
+      <soNN>2</soNN>
+    </nv>
+
+    <nv loai="1">
+      <ten>Huong</ten>
+      <ma>NV002</ma>
+      <gt>Nu</gt>
+      <hSL>5</hSL>
+      <namVL>2017</namVL>
+      <soNN>1</soNN>
+    </nv>
+
+    <nv loai="2">
+      <ten>Hang</ten>
+      <ma>NV003</ma>
+      <gt>Nu</gt>
+      <hSL>4</hSL>
+      <namVL>2021</namVL>
+      <soNN>3</soNN>
+      <dt>1000000</dt>
+      <dttt>1200000</dttt>
+    </nv>
+
+    <nv loai="2">
+      <ten>Nhu</ten>
+      <ma>NV004</ma>
+      <gt>Nu</gt>
+      <hSL>4.9</hSL>
+      <namVL>2017</namVL>
+      <soNN>6</soNN>
+      <dt>1000000</dt>
+      <dttt>1200000</dttt>
+    </nv>
+
+    <nv loai="3">
+      <ten>Long</ten>
+      <ma>NV005</ma>
+      <gt>Nam</gt>
+      <hSL>5.5</hSL>
+      <namVL>2019</namVL>
+      <soNN>7</soNN>
+      <cv>Truong Phong</cv>
+      <hspccv>0.4</hspccv>
+    </nv>
+
+    <nv loai="3">
+      <ten>Thuy</ten>
+      <ma>NV006</ma>
+      <gt>Nu</gt>
+      <hSL>3</hSL>
+      <namVL>2015</namVL>
+      <soNN>0</soNN>
+      <cv>Giam Doc</cv>
+      <hspccv>0.7</hspccv>
+    </nv>
+  </dsnv>
+</cty>

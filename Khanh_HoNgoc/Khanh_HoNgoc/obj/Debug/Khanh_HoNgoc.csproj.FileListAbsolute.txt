@@ -1,0 +1,16 @@
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.exe.config
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.exe
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.pdb
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.exe
+E:\LuuDuLieuSinhVien\Khanh_HoNgocKhanh\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.pdb
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.exe.config
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.exe
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.pdb
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.csproj.AssemblyReference.cache
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.csproj.CoreCompileInputs.cache
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.exe
+D:\code\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.pdb
+F:\Khanh_HoNgoc\Khanh_HoNgoc\bin\Debug\Khanh_HoNgoc.exe.config
+F:\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.exe
+F:\Khanh_HoNgoc\Khanh_HoNgoc\obj\Debug\Khanh_HoNgoc.pdb
